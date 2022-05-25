@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Convertation</string>
+    <string-array name="languages"
+        >
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="En">
+        <item>Language</item>
+        <item>meters</item>
+        <item>kilometers</item>
+        <item>centimeters</item>
+        <item>feet</item>
+        <item>miles</item>
+        <item>inches</item>
+
+    </string-array>
+
+    <string-array name="Ru">
+        <item>Язык</item>
+        <item>метры</item>
+        <item>километры</item>
+        <item>сантиметры</item>
+        <item>футы</item>
+        <item>мили</item>
+        <item>дюймы</item>
+
+    </string-array>
+
+</resources>
